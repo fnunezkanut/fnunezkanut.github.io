@@ -1,0 +1,14 @@
+# Permalinks
+permalink:           date
+
+# Setup
+title:               Fidel Nuñez Kanut's blog
+tagline:             ComputerStuff.random();
+description:         Fidel Nuñez Kanut's blog
+url:                 https://fidel.ie
+baseurl:             https://fidel.ie
+paginate:            5
+
+# Custom vars
+version:             1.0.0
+myhost:              fidel.ie
